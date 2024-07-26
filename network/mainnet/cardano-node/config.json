@@ -1,9 +1,9 @@
 {
-  "AlonzoGenesisFile": "../genesis/alonzo.json",
+  "AlonzoGenesisFile": "../genesis/alonzo-genesis.json",
   "AlonzoGenesisHash": "7e94a15f55d1e82d10f09203fa1d40f8eede58fd8066542cf6566008068ed874",
-  "ByronGenesisFile": "../genesis/byron.json",
+  "ByronGenesisFile": "../genesis/byron-genesis.json",
   "ByronGenesisHash": "5f20df933584822601f9e3f8c024eb5eb252fe8cefb24d1317dc3d432e940ebb",
-  "ConwayGenesisFile": "../genesis/conway.json",
+  "ConwayGenesisFile": "../genesis/conway-genesis.json",
   "ConwayGenesisHash": "15a199f895e461ec0ffc6dd4e4028af28a492ab4e806d39cb674c88f7643ef62",
   "EnableP2P": true,
   "LastKnownBlockVersion-Alt": 0,
@@ -14,7 +14,7 @@
   "PeerSharing": true,
   "Protocol": "Cardano",
   "RequiresNetworkMagic": "RequiresNoMagic",
-  "ShelleyGenesisFile": "../genesis/shelley.json",
+  "ShelleyGenesisFile": "../genesis/shelley-genesis.json",
   "ShelleyGenesisHash": "1a3be38bcbb7911969283716ad7aa550250226b76a61fc51cc9a9a35d9276d81",
   "TargetNumberOfActivePeers": 20,
   "TargetNumberOfEstablishedPeers": 50,
@@ -71,7 +71,7 @@
   ],
   "hasEKG": 12788,
   "hasPrometheus": [
-    "127.0.0.1",
+    "0.0.0.0",
     12798
   ],
   "minSeverity": "Info",
