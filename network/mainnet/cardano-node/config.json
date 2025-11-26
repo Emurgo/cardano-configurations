@@ -3,7 +3,7 @@
   "AlonzoGenesisHash": "7e94a15f55d1e82d10f09203fa1d40f8eede58fd8066542cf6566008068ed874",
   "ByronGenesisFile": "../genesis/byron-genesis.json",
   "ByronGenesisHash": "5f20df933584822601f9e3f8c024eb5eb252fe8cefb24d1317dc3d432e940ebb",
-  "CheckpointsFile": "checkpoints.json",
+  "CheckpointsFile": "../genesis/checkpoints.json",
   "CheckpointsFileHash": "3e6dee5bae7acc6d870187e72674b37c929be8c66e62a552cf6a876b1af31ade",
   "ConsensusMode": "PraosMode",
   "ConwayGenesisFile": "../genesis/conway-genesis.json",
